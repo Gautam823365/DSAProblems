@@ -21,7 +21,7 @@ public class KthArrayRotation {
 
         RotationByK(arr, k);
         for(int num:arr){
-            System.out.println(num);
+            System.out.print(num+",");
         }
     }
 }
